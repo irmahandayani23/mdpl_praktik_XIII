@@ -1,0 +1,5 @@
+Pertemuan 1:
+- Perkenalan, Kontrak Kuliah, Penjelasan Silabus
+- Pengantar MDPL Prakt
+- Life cycle MDPL
+- Jenis-jenis MDPL
