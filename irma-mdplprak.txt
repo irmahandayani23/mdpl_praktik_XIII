@@ -1,0 +1,4 @@
+materi 1. waterfall
+Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasuk ke dalam classic life cycle (siklus hidup klasik),
+yang mana menekankan pada fase yang berurutan dan sistematis. 
+Untuk model pengembangannya, dapat dianalogikan seperti air terjun, dimana setiap tahap dikerjakan secara berurutan mulai dari atas hingga ke bawah. 
